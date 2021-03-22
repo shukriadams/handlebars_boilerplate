@@ -1,0 +1,15 @@
+{
+    "name": "handlebars_boilerplate",
+    "version": "0.0.0",
+    "scripts": {
+        "start" : "node index"
+    },
+    "dependencies": {
+        "fileconcat": "2.0.1",
+        "chokidar": "2.1.5",
+        "express": "4.16.3",
+        "fs-extra": "6.0.1",
+        "node-sass-runner": "https://github.com/shukriadams/node-sass-runner.git#0.0.5",
+        "madscience-handlebarsloader": "https://github.com/shukriadams/madscience-handlebarsloader.git#0.0.4"
+    }
+}
